@@ -1,7 +1,7 @@
 public class Test{
 
   public static void main(String[] args){
-    
-    System.out.println("Test Class");
+    int a= 10;
+    System.out.println("Test Class a value is : "+ a);
   }
 }
